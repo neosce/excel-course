@@ -1,6 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 node_modules
+<<<<<<< HEAD
 !/gitFullText
 dist/
 gitFullText
+=======
+>>>>>>> ceb495a2529ef6c5831e22b41f4fc84a3661bf3d
